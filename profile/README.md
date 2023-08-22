@@ -10,4 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-https://github.com/orgs/jahoda-tech/projects/3
+
+1. pridat odkaz na projekt
+2. pridat odkaz na stranky io
+
