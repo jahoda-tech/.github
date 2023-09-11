@@ -14,4 +14,4 @@
 1. https://github.com/orgs/jahoda-tech/projects/3
 2. https://jahoda-tech.github.io/
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahoda-tech&theme=dracula&border_radius=20&" alt="Jahoda-Tech" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahoda-tech&theme=dracula&border_radius=20&" alt="jahoda-tech" /><br>
