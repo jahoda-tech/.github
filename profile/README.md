@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-1. pridat odkaz na projekt
-2. pridat odkaz na stranky io
+1. https://github.com/orgs/jahoda-tech/projects/3
+2. https://jahoda-tech.github.io/
 
