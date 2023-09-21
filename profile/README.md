@@ -1,5 +1,12 @@
-## Hi there 👋
+## Rules of programming 👋
 
+
+  1. make it correct (make it work)
+  2. make it readable (refactor code for better orientation, easy to understand)
+  3. make it small (reduce number of code lines)
+  4. make it simple (change code to make it more beautiful, easier to read and understand) 
+  5. make it fast (change algorithm, use benchmarks, make tests)
+    
 <!--
 
 **Here are some ideas to get you started:**
