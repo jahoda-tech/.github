@@ -1,5 +1,5 @@
-1. https://github.com/orgs/jahoda-tech/projects/3
-2. https://jahoda-tech.github.io/
+[Roadmap](https://github.com/orgs/jahoda-tech/projects/3)
+[Documentation](https://jahoda-tech.github.io/)
 
    
 # Rules of programming 👋
