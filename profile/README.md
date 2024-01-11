@@ -2,11 +2,6 @@
 # [Documentation](https://github.com/jahoda-tech/.github/wiki)
 
 
-
-# Analyzy
-https://github.com/jahoda-tech/markdowns/blob/main/pokart/description.MD
-
-
 # Rules of programming 👋
 
 
