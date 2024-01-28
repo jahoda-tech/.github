@@ -108,7 +108,12 @@ runningDevices instead of rd, runDev, ...
 
 ### Git commits in changelog.md
 
-1. Commit after every change. Use these tags:
+1. Commit after every change.
+* commit after every major change
+* use imperative way
+> Bad: fixed stuff
+> Good: Fix issue where user session does not expire
+3. Update changelog.md at the end of the day, use these tags:
 
 * ```Added``` for new features.
 * ```Changed``` for changes in existing functionality.
