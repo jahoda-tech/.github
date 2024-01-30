@@ -1,5 +1,4 @@
 # [Roadmap](https://github.com/orgs/jahoda-tech/projects/3)
-# [Documentation](https://github.com/jahoda-tech/.github/wiki)
 
 
 # Rules of programming 👋
